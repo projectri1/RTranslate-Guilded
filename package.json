@@ -1,0 +1,18 @@
+{
+  "name": "rtranslate-guilded",
+  "version": "1.0.1",
+  "description": "RTranslate bot but for guilded",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "ri1_",
+  "license": "MIT",
+  "dependencies": {
+    "@vitalets/google-translate-api": "^7.0.0",
+    "bad-words": "^3.0.4",
+    "guilded.js": "^0.13.14",
+    "languagedetect": "^2.0.0",
+    "turbocommons-ts": "^3.8.0"
+  }
+}
