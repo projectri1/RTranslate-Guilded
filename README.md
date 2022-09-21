@@ -1,7 +1,8 @@
 # RTranslate Guilded Version
 ### a Guilded Translation Bot using google translate api
-![Image](https://repository-images.githubusercontent.com/385170286/6383f1ac-70ed-48f1-ba4a-8baae0836b36)
-(Guilded Image Soon)
+![Image](https://media.discordapp.net/attachments/575001256540766209/1022166861388980395/rtranslate-guilded.png)
+
+
 
 ## Demo
 If you don’t want to host the bot yourself, there is a demo (in english and not configurable) :
